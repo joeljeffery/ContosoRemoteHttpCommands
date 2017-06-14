@@ -2,8 +2,11 @@
 //*********************************************************
 // This is a fork of Vesa and Bert's Advanced remote HTTP
 // opertaions for SharePoint 2013.
+// Original availavle for download here:
+// https://blogs.msdn.microsoft.com/vesku/2013/11/04/ftc-to-cam-advance-http-remote-operations-for-sp2013/ 
+//
 // New functionality includes:
-// 
+//	* Remotely Trust a SharePoint Add-in/App
 //*********************************************************
 
 -->
