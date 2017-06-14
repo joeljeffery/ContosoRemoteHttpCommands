@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Remote.Core.HttpCommands", "Contoso.Remote.Core.HttpCommands\Contoso.Remote.Core.HttpCommands.csproj", "{53E53AED-26C0-488D-ACE2-618C9AA7FC1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{488D3107-2E57-4723-9E92-6DCE199030F1}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Remote.TestConsole", "Contoso.Remote.TestConsole\Contoso.Remote.TestConsole.csproj", "{DBB0166D-547F-47D0-9F06-6F85DF78CD3C}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vesku.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Contoso.Remote.Core.HttpCommands\\Contoso.Remote.Core.HttpCommands.csproj
+		SccProjectName1 = Contoso.Remote.Core.HttpCommands
+		SccLocalPath1 = Contoso.Remote.Core.HttpCommands
+		SccProjectUniqueName2 = Contoso.Remote.TestConsole\\Contoso.Remote.TestConsole.csproj
+		SccProjectName2 = Contoso.Remote.TestConsole
+		SccLocalPath2 = Contoso.Remote.TestConsole
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E53AED-26C0-488D-ACE2-618C9AA7FC1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E53AED-26C0-488D-ACE2-618C9AA7FC1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E53AED-26C0-488D-ACE2-618C9AA7FC1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E53AED-26C0-488D-ACE2-618C9AA7FC1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBB0166D-547F-47D0-9F06-6F85DF78CD3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB0166D-547F-47D0-9F06-6F85DF78CD3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB0166D-547F-47D0-9F06-6F85DF78CD3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB0166D-547F-47D0-9F06-6F85DF78CD3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
